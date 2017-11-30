@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*-coding:utf-8-*-
 from selenium.webdriver.common.by import By
-from webDDT.basePage.webDri import *
+from webDDT.webUI.basePage.webDri import *
 
 class login(webDri):
 
